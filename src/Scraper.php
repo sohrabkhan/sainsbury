@@ -40,7 +40,7 @@ class Scraper
      * scrape method.
      *
      * @param ScraperInterface $scraper
-     * @return mixed
+     * @return array
      */
     public function scrape(ScraperInterface $scraper)
     {
