@@ -6,5 +6,13 @@
   "autoload": {
     "psr-4":
     { "Sainsburys\\": ["src/"] }
-  }
+  },
+  "authors": [
+    {
+      "name": "Sohrab Khan",
+      "email": "sohrab@sohrabkhan.com",
+      "homepage": "http://www.sohrabkhan.com",
+      "role": "Senior Developer"
+    }
+  ]
 }
